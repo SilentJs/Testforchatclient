@@ -1,4 +1,4 @@
-const socket = io('https://exquisite-custard-45c4ef.netlify.app/');
+const socket = io('https://7e98-103-252-27-178.in.ngrok.io');
 const messages = document.getElementById('messages');
 const msgForm = document.getElementById('msgForm');
 
