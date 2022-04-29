@@ -1,4 +1,4 @@
-const socket = io('https://24b4-103-252-27-178.in.ngrok.io);
+const socket = io('https://24b4-103-252-27-178.in.ngrok.io');
 const messages = document.getElementById('messages');
 const msgForm = document.getElementById('msgForm');
 
