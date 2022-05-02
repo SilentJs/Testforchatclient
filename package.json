@@ -1,0 +1,20 @@
+{
+  "name": "one-tap-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "script": "nodemon src/main.js"
+  },
+  "author": "Silentkarambit7",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "google-one-tap-login": "^1.0.1",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "socketio": "^1.0.0"
+  }
+}
